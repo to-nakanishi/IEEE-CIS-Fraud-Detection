@@ -818,7 +818,7 @@ submission.to_csv('submission.csv', index=False)
 print("完了")
 
 """Private Score 0.875
-Public Score 0.910
+   Public  Score 0.910
 
 【モデル選定のプロセスと考察】  
 　当初、ビジネス上の損失を最小化するため、金額帯別に4つのセグメント（Bin0〜3）に分割したモデルを構築した。しかし、ベースラインとして作成した「全データ統合の単一モデル」と比較した結果、単一モデルの方がKaggleのスコアで上回る結果となった。  
