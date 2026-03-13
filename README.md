@@ -1,6 +1,7 @@
 # IEEE-CIS Fraud Detection: 大規模決済データにおける不正検知モデルの構築と運用最適化
 🔗 [Kaggle Competition Link](https://www.kaggle.com/competitions/ieee-fraud-detection)  
 
+
 <br>
 ## 1. プロジェクトの背景と目的
 スーパーのレジで正当なカード決済が拒否（誤検知）されるのは顧客にとって気まずい瞬間であり、顧客体験を大きく損ないます。一方で、カード会社は背後で稼働する「不正利用防止システム」によって年間数百万ドルの被害を防いでいます。
